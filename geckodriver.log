@@ -1,0 +1,632 @@
+1619824083342	geckodriver	INFO	Listening on 127.0.0.1:32813
+1619824084338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiy8TZx"
+1619824084872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619824086913	Marionette	INFO	Listening on port 41569
+1619824086960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619824118340	geckodriver	INFO	Listening on 127.0.0.1:42559
+1619824119356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3aXNJj"
+1619824119956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619824121865	Marionette	INFO	Listening on port 36799
+1619824121985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619824128445	Marionette	INFO	Stopped listening on port 36799
+1619824128453	Marionette	INFO	Stopped listening on port 41569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619824342241	geckodriver	INFO	Listening on 127.0.0.1:46467
+1619824342248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRcxX85"
+1619824342750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619824344591	Marionette	INFO	Listening on port 38271
+1619824344679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619824383765	geckodriver	INFO	Listening on 127.0.0.1:34835
+1619824383772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeJmSYZ"
+1619824384298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619824386264	Marionette	INFO	Listening on port 45301
+1619824386304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 213: TypeError: grip is undefined
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 213: TypeError: grip is undefined
+1619824488718	Marionette	INFO	Stopped listening on port 38271
+1619824491357	Marionette	INFO	Stopped listening on port 45301
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619824505769	geckodriver	INFO	Listening on 127.0.0.1:56645
+1619824505779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRWSnDu"
+1619824506330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619824508144	Marionette	INFO	Listening on port 37049
+1619824508215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619828821003	Marionette	INFO	Stopped listening on port 37049
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619828832206	geckodriver	INFO	Listening on 127.0.0.1:33595
+1619828832212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0p0JdY"
+1619828832764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619828834813	Marionette	INFO	Listening on port 37549
+1619828834845	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619834438129	geckodriver	INFO	Listening on 127.0.0.1:58333
+1619834438150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDDuPXm"
+1619834438730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834440594	Marionette	INFO	Listening on port 38847
+1619834440680	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._form is undefined", "resource://devtools/client/fronts/node.js", 254))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode921, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode915, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode915, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode915, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode915, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode925, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode921, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode906, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 66: uncaught exception: AlgoliaSearchRequestTimeoutError: Request timed out before getting a response
+1619835753107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 571))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:571:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+JavaScript error: https://www-kiva-org.freetls.fastly.net/ui/static/js/vendors~app.9295d1ba51f04d9620fb.js, line 158: Error: Network error: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn5.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+1619845863380	geckodriver	INFO	Listening on 127.0.0.1:50613
+1619845863383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevC9X2z"
+1619845863913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619845865880	Marionette	INFO	Listening on port 45239
+1619845865933	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1619924642904	geckodriver	INFO	Listening on 127.0.0.1:58775
+1619924642923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIrQYR4"
+1619924643499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619924645367	Marionette	INFO	Listening on port 33573
+1619924645452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619924872179	Marionette	INFO	Stopped listening on port 33573
+1619924879445	geckodriver	INFO	Listening on 127.0.0.1:46355
+1619924879464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg7vmWa"
+1619924880043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619924881870	Marionette	INFO	Listening on port 37621
+1619924881889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619926606343	geckodriver	INFO	Listening on 127.0.0.1:58485
+1619926606350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcdSH7"
+1619926606894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619926608542	Marionette	INFO	Listening on port 38295
+1619926608576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619926736116	Marionette	INFO	Stopped listening on port 38295
+1619926736151	Marionette	INFO	Stopped listening on port 37621
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619926840114	geckodriver	INFO	Listening on 127.0.0.1:48463
+1619926840120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyoA8Qf"
+1619926840701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619926842613	Marionette	INFO	Listening on port 44005
+1619926842656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619927042305	geckodriver	INFO	Listening on 127.0.0.1:33721
+1619927042323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9xZCiR"
+1619927042836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619927044619	Marionette	INFO	Listening on port 40181
+1619927044653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619927184182	geckodriver	INFO	Listening on 127.0.0.1:40827
+1619927184193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileomgIzB"
+1619927184819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619927186740	Marionette	INFO	Listening on port 41139
+1619927186818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619927269833	geckodriver	INFO	Listening on 127.0.0.1:57483
+1619927269845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQJHk9"
+1619927270374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619927272318	Marionette	INFO	Listening on port 43563
+1619927272378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619927328090	geckodriver	INFO	Listening on 127.0.0.1:58619
+1619927328101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZJe6V"
+1619927328656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619927330748	Marionette	INFO	Listening on port 39499
+1619927330831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619928358064	geckodriver	INFO	Listening on 127.0.0.1:39797
+1619928358092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5mpqV"
+1619928358692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619928360584	Marionette	INFO	Listening on port 46855
+1619928360624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619928506180	Marionette	INFO	Stopped listening on port 41139
+1619928507886	Marionette	INFO	Stopped listening on port 40181
+1619928509636	Marionette	INFO	Stopped listening on port 44005
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619928511140	Marionette	INFO	Stopped listening on port 43563
+1619928512526	Marionette	INFO	Stopped listening on port 39499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619928744232	Marionette	INFO	Stopped listening on port 46855
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619928755985	geckodriver	INFO	Listening on 127.0.0.1:57117
+1619928756000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLEwHc1"
+1619928756566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619928758330	Marionette	INFO	Listening on port 39269
+1619928758430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619928896361	geckodriver	INFO	Listening on 127.0.0.1:41523
+1619928896372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilercgpmV"
+1619928896950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619928898762	Marionette	INFO	Listening on port 45029
+1619928898801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619929267571	geckodriver	INFO	Listening on 127.0.0.1:52497
+1619929267586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletith5V"
+1619929268109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619929269936	Marionette	INFO	Listening on port 35841
+1619929270014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619929682980	geckodriver	INFO	Listening on 127.0.0.1:33185
+1619929682989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDZMVMf"
+1619929683492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619929685302	Marionette	INFO	Listening on port 43925
+1619929685414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619929754669	Marionette	INFO	Stopped listening on port 35841
+1619929754691	Marionette	INFO	Stopped listening on port 39269
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619929754740	Marionette	INFO	Stopped listening on port 43925
+1619929754893	Marionette	INFO	Stopped listening on port 45029
+1619931857406	geckodriver	INFO	Listening on 127.0.0.1:54447
+1619931857411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5DxNfO"
+1619931857961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619931859816	Marionette	INFO	Listening on port 42911
+1619931859845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619931908576	geckodriver	INFO	Listening on 127.0.0.1:52395
+1619931908592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIcgNRh"
+1619931909082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619931910964	Marionette	INFO	Listening on port 34349
+1619931911023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619933343820	geckodriver	INFO	Listening on 127.0.0.1:56817
+1619933343831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIVCERH"
+1619933344330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619933346367	Marionette	INFO	Listening on port 43897
+1619933346462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619933477014	geckodriver	INFO	Listening on 127.0.0.1:35001
+1619933477025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDk7ufV"
+1619933477516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619933479321	Marionette	INFO	Listening on port 46827
+1619933479361	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619933700943	geckodriver	INFO	Listening on 127.0.0.1:38781
+1619933700954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ZR6hk"
+1619933701463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619933703254	Marionette	INFO	Listening on port 35589
+1619933703280	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1619933783278	Marionette	INFO	Stopped listening on port 42911
+1619933783310	Marionette	INFO	Stopped listening on port 34349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619933783345	Marionette	INFO	Stopped listening on port 43897
+1619933802481	geckodriver	INFO	Listening on 127.0.0.1:47877
+1619933802496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebXUzFn"
+1619933803034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619933804833	Marionette	INFO	Listening on port 36661
+1619933804925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619933944457	geckodriver	INFO	Listening on 127.0.0.1:54827
+1619933944470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelexqTU"
+1619933945000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619933946698	Marionette	INFO	Listening on port 43163
+1619933946804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619934081827	geckodriver	INFO	Listening on 127.0.0.1:44545
+1619934081836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVJUtz1"
+1619934082352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619934084076	Marionette	INFO	Listening on port 34695
+1619934084157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619934171156	Marionette	INFO	Stopped listening on port 34695
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619937843701	Marionette	INFO	Stopped listening on port 36661
+1619937843712	Marionette	INFO	Stopped listening on port 43163
+1619937907074	geckodriver	INFO	Listening on 127.0.0.1:51869
+1619937907078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4CdGbX"
+1619937907621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619937909403	Marionette	INFO	Listening on port 46735
+1619937909511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619938469958	geckodriver	INFO	Listening on 127.0.0.1:43377
+1619938469964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef8QUxo"
+1619938470594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619938472599	Marionette	INFO	Listening on port 34025
+1619938472699	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1619939029294	geckodriver	INFO	Listening on 127.0.0.1:32939
+1619939029324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile45xXwM"
+1619939029930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619939031917	Marionette	INFO	Listening on port 34111
+1619939031952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619939183712	geckodriver	INFO	Listening on 127.0.0.1:43807
+1619939183727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemcNVlc"
+1619939184276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619939186141	Marionette	INFO	Listening on port 42387
+1619939186258	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1619939865010	geckodriver	INFO	Listening on 127.0.0.1:37261
+1619939865020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI7cjke"
+1619939865534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619939867353	Marionette	INFO	Listening on port 41409
+1619939867448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619939969221	geckodriver	INFO	Listening on 127.0.0.1:37031
+1619939969236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6H0I7W"
+1619939969722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619939971717	Marionette	INFO	Listening on port 37315
+1619939971788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940056845	geckodriver	INFO	Listening on 127.0.0.1:47709
+1619940056868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepydazW"
+1619940057391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940059256	Marionette	INFO	Listening on port 33219
+1619940059304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940227117	geckodriver	INFO	Listening on 127.0.0.1:47833
+1619940227130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4PgUVA"
+1619940227630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940229555	Marionette	INFO	Listening on port 34005
+1619940229661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940304941	geckodriver	INFO	Listening on 127.0.0.1:35045
+1619940304968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNVjr8"
+1619940305550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940307402	Marionette	INFO	Listening on port 40821
+1619940307497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940432227	geckodriver	INFO	Listening on 127.0.0.1:41941
+1619940432255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenv5xTM"
+1619940432823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940434750	Marionette	INFO	Listening on port 44941
+1619940434796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940631183	geckodriver	INFO	Listening on 127.0.0.1:52313
+1619940631216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqH9kL9"
+1619940631982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940634303	Marionette	INFO	Listening on port 44149
+1619940634347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940756202	geckodriver	INFO	Listening on 127.0.0.1:50197
+1619940756233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUbIfrs"
+1619940756899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940758948	Marionette	INFO	Listening on port 37909
+1619940759058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619940951691	Marionette	INFO	Stopped listening on port 37909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619940951869	Marionette	INFO	Stopped listening on port 34005
+1619940951888	Marionette	INFO	Stopped listening on port 44941
+1619940951935	Marionette	INFO	Stopped listening on port 40821
+1619940951959	Marionette	INFO	Stopped listening on port 44149
+1619940951975	Marionette	INFO	Stopped listening on port 33219
+1619940951991	Marionette	INFO	Stopped listening on port 37315
+1619940952000	Marionette	INFO	Stopped listening on port 41409
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619940952245	Marionette	INFO	Stopped listening on port 46735
+1619940952260	geckodriver	INFO	Listening on 127.0.0.1:52739
+1619940952266	Marionette	INFO	Stopped listening on port 34111
+1619940952268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletxZFPW"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619940952328	Marionette	INFO	Stopped listening on port 34025
+1619940953099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619940955137	Marionette	INFO	Listening on port 46009
+1619940955206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619941073671	geckodriver	INFO	Listening on 127.0.0.1:58943
+1619941073685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSK0KQn"
+1619941074202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619941076235	Marionette	INFO	Listening on port 41279
+1619941076309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619941078657	Marionette	INFO	Stopped listening on port 46009
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619941256781	geckodriver	INFO	Listening on 127.0.0.1:46311
+1619941256796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8TMBCt"
+1619941257341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619941259364	Marionette	INFO	Listening on port 40925
+1619941259423	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619941422562	geckodriver	INFO	Listening on 127.0.0.1:33493
+1619941422580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiTnIlO"
+1619941423114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619941425057	Marionette	INFO	Listening on port 37135
+1619941425118	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619941783454	geckodriver	INFO	Listening on 127.0.0.1:44753
+1619941783463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7mcJLS"
+1619941784017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619941785766	Marionette	INFO	Listening on port 34389
+1619941785791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619941940928	geckodriver	INFO	Listening on 127.0.0.1:44881
+1619941940939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefBClIw"
+1619941941461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619941943394	Marionette	INFO	Listening on port 45529
+1619941943466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619942025679	geckodriver	INFO	Listening on 127.0.0.1:59385
+1619942025690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqKC7du"
+1619942026274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619942028240	Marionette	INFO	Listening on port 43953
+1619942028322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619942150453	Marionette	INFO	Stopped listening on port 45529
+1619942150460	Marionette	INFO	Stopped listening on port 34389
+1619942150498	Marionette	INFO	Stopped listening on port 43953
+1619942153001	geckodriver	INFO	Listening on 127.0.0.1:47557
+1619942153018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD4cLQy"
+1619942153590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619942155379	Marionette	INFO	Listening on port 37611
+1619942155440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619942767860	Marionette	INFO	Stopped listening on port 37611
